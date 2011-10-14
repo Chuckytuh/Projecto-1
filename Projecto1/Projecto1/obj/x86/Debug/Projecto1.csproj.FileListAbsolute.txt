@@ -1,0 +1,6 @@
+D:\IPCA\3A1S - Projecto 1\Projecto1\Projecto1\Projecto1\bin\x86\Debug\Projecto1.exe
+D:\IPCA\3A1S - Projecto 1\Projecto1\Projecto1\Projecto1\bin\x86\Debug\Projecto1.pdb
+D:\IPCA\3A1S - Projecto 1\Projecto1\Projecto1\Projecto1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IPCA\3A1S - Projecto 1\Projecto1\Projecto1\Projecto1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\IPCA\3A1S - Projecto 1\Projecto1\Projecto1\Projecto1\obj\x86\Debug\Projecto1.exe
+D:\IPCA\3A1S - Projecto 1\Projecto1\Projecto1\Projecto1\obj\x86\Debug\Projecto1.pdb
